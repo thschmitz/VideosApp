@@ -6,7 +6,7 @@ const VideoSchema = new mongoose.Schema({
         type:String,
         required: true,
     },
-    videoTitle: {
+    title: {
         type:String,
         required:true,
     },
@@ -24,7 +24,7 @@ const VideoSchema = new mongoose.Schema({
     },
     views: {
         type:Number,
-        required:true,
+        default: 0,
     },
     tags: {
         type: [String],
