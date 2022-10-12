@@ -8493,6 +8493,16 @@
   "resolved" "https://registry.npmjs.org/thunky/-/thunky-1.1.0.tgz"
   "version" "1.1.0"
 
+"timeago.js@^4.0.2":
+  "integrity" "sha512-a7wPxPdVlQL7lqvitHGGRsofhdwtkoSXPGATFuSOA2i1ZNQEPLrGnj68vOp2sOJTCFAQVXPeNMX/GctBaO9L2w=="
+  "resolved" "https://registry.npmjs.org/timeago.js/-/timeago.js-4.0.2.tgz"
+  "version" "4.0.2"
+
+"timeagojs@^1.0.0":
+  "integrity" "sha512-4xMugz/D5nW979wSMHXwQhI+/sUel2NnCWupguzcFyynP9rL9Bt29vNMCThx+6/LDXbL7LC2xnJUflQhNhLagg=="
+  "resolved" "https://registry.npmjs.org/timeagojs/-/timeagojs-1.0.0.tgz"
+  "version" "1.0.0"
+
 "tmpl@1.0.5":
   "integrity" "sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw=="
   "resolved" "https://registry.npmjs.org/tmpl/-/tmpl-1.0.5.tgz"
