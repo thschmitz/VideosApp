@@ -1,9 +1,25 @@
 import AccountCircleOutlinedIcon from "@mui/icons-material/AccountCircleOutlined";
 import SearchOutlinedIcon from "@mui/icons-material/SearchOutlined";
+import VideoCallOutlineIcon from "@mui/icons-material/VideoCallOutlined";
 import React from "react";
 import { useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
+
+const User = styled.div`
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 500;
+  color: ${({theme}) => theme.text};
+`
+
+const Avatar = styled.div`
+  width:32px;
+  height: 32px;
+  border: 50%;
+  background-color: #999;
+`
 
 const Container = styled.div`
   position: sticky;
